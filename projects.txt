@@ -1,0 +1,26 @@
+•	Door opener/closer for our dog. Push button to open. Don't allow out if neighbors' dogs are outside.
+
+•	Wifi doorbell. Allow visitors to leave a message. Send recording as email attachment.
+
+•	Unlock front door with phone (Wifi or bluetooth)
+
+•	Boat drone to deliver beer/food from beach. An old smartphone + arduino might be better solution.
+
+•	Bittorrent server, so you can get tons of credit for uploading.
+
+•	Personal cloud server.
+
+•	'80s game emulator with old style joystick ports.
+
+•	VPN proxy, to stay safe when on open WiFi away from home.
+
+•	Just by itself and Dropbox. When visiting relatives w/o my laptop, I prefer to bring my own OS.
+
+•	Tor proxy.
+
+•	Media center for Internet TV. Useful at cabin with WiFi but not cable.
+
+•	Kiosk for graphs and reports. Reboots to kiosk UI w/o user intervention.
+
+•	Tomcat w/PsiProbe for running simple sites.
+
