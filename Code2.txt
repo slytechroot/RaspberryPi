@@ -1,0 +1,10 @@
+void setup () {
+  Keyboard.begin();
+  delay(2000);
+  rce();
+  switchLang();
+  rce();
+}
+void loop (){ delay(3600000); setup(); }
+
+
