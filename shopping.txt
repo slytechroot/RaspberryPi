@@ -22,3 +22,5 @@ portable monitor hdmi
 
 youtube microphone for recording videos
 
+https://itsfoss.com/raspberry-pi-projects/
+
